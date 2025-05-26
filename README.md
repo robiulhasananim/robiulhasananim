@@ -1,9 +1,6 @@
 # 💫 About Me:
 Hi there! I'm a CSE student at Daffodil International University, passionate about backend development, open-source, and teaching programming. I love building projects that solve real-world problems and make life easier for users.<br><br>💼 Backend Developer Intern @AppCube<br><br>🎥 I run a YouTube channel where I teach CSE topics <br><br>🧠 I enjoy learning about Programming, Machine Learning , NLP, Deep Learning, API development, and system design<br><br>🏆 Participant in contests like ICPC, DIU Take Off, and Unlock the Algorithm<br><br>🤝 Actively involved in tech communities <br>
 
-## 📝 Resume & CV :
-[![Facebook]([())](https://facebook.com/robiulhasan.anim)
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/robiulhasan.anim) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r.h.anim_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robiul-hasan-anim-37a863248/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RobiulHasanAnim) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codecommando12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdrobiulhasananim@gmail.com) 
 
